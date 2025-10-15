@@ -1,0 +1,188 @@
+# Lista de libros dominicanos para buscar
+# Formato: Título | Autor | Año
+# 
+# Las líneas que comienzan con # son comentarios
+# Puedes editar este archivo para agregar o quitar libros
+
+# ========================================
+# 1) DRAMA (TEATRO)
+# ========================================
+
+Iguaniona | Javier Angulo Guridi | 1881
+Santo Domingo | Máximo Avilés Blonda | 1968
+Desarraigados | Frank Disla | 1993
+Bolo Francisco | Reynaldo Disla | 1985
+Obras Premiadas | Franklin Domínguez | 1993
+Más Allá de la Búsqueda | Iván García | 1967
+El Nacimiento de Dionisos | Pedro Henríquez Ureña | 1916
+Miedo en un Puñado de Polvo | Héctor Incháustegui Cabral | 1954
+Retablo de la Pasión y Muerte de Juana la Loca | Manuel Rueda | 1996
+La Danza de Mingo | Haffe Serulle | 1977
+
+# ========================================
+# 2) LITERATURA INFANTIL Y JUVENIL
+# ========================================
+
+Un Zompopo Peculiar | Kianny Antigua | 2018
+Un Cuento de Navidad | Juan Bosch | 1956
+El Camino de la Libertad | Lucía Amelia Cabral | 1999
+Por la Ruta de los Soles | Brunilda Contreras | 1997
+Un Chele es un Chele | Reynaldo Disla | 2019
+Un Pueblo Llamado Pan | José Enrique García | 1948
+Los Puentes del Corazón | Farah Hallal | 2020
+Cuentos de la Nana Lupe | Pedro Henríquez Ureña | 1946
+El Día en que Dos Ciudades Contrarias Descubrieron que Eran Hermanas | Margarita Luciano | 1999
+La Aventura de Don Pavo | Jenny Montero | 2017
+A la Orilla de la Mar | Rafael Peralta Romero | 2011
+El Rey Clinejas | Manuel Rueda | 1979
+El Cemí y el Fuego | César Sánchez Beras | 2011
+De Dónde Vino la Gente | Marcio Veloz Maggiolo | 1978
+
+# ========================================
+# 3) NARRATIVA BREVE (CUENTO Y RELATO)
+# ========================================
+
+La Carne Estremecida | José Alcántara Almánzar | 1989
+El Enemigo | Miguel Alfonseca | 1970
+Infancia | Armando Almánzar Rodríguez | 1978
+Cuentos Más que Completos | Juan Bosch | 2007
+Cuentos Completos | Néstor Caro | 2000
+Ritos de Paso | Efraím Castillo | 1996
+Entre Dos Silencios | Hilma Contreras | 1987
+Negocios | Junot Díaz | 1997
+De Niños Hombres y Fantasmas | Virgilio Díaz Grullón | 1981
+Sábado Verde | Rubén Echavarría | 1994
+El Olor de la Memoria | Rhina P. Espaillat | 2007
+Cuentos Para Ser Disparados | Abel Fernández Mejía | 1992
+Cuentos Frágiles | Fabio Fiallo | 1908
+Alótropos | Ángela Hernández | 1989
+Cocktail de Escenas | Ángel Hernández Acosta | 1948
+Cibao | Tomás Hernández Franco | 1951
+Mujer que Llamo Laura | Aquiles Julián | 2012
+No Todo Está Perdido | Ramón Lacay Polanco | 1966
+Los Cuentos que Nueva York No Sabe | Ángel Rafael Lamarche | 1949
+Hotel Cosmos | Antonio Lockward Artiles | 1966
+Sábado de Sol Después de las Lluvias | Roberto Marcallé Abreu | 1978
+El Taladro del Tiempo | William Darío Mejía | 1984
+Tres Gotas de Misericordia | Otto Oscar Milanese | 1988
+Cuentos de Color Sepia | Freddy Miller | 1957
+Risas y Lágrimas | Virginia Elena Ortea | 1901
+Las Locas de la Plaza de los Almendros | Pedro Peix | 1978
+Cosas Añejas | César Nicolás Penson | 1891
+Floreo | José Rijo | 1978
+En el Barrio No Hay Banderas | René del Risco Bermúdez | 1974
+Subir Como una Marea | Arturo Rodríguez Fernández | 1980
+Su Nombre Julia | René Rodríguez Soriano | 1991
+Papeles de Sara | Manuel Rueda | 1985
+Rayada de Pez Como la Noche | Enriquillo Sánchez | 2006
+El Candado | J. M. Sanz Lajara | 1959
+Narraciones Dominicanas | Manuel de Jesús Troncoso de la Concha | 1946
+El Silencio del Caracol | Diógenes Valdez | 1978
+La Fértil Agonía del Amor | Marcio Veloz Maggiolo | 1982
+
+# ========================================
+# 4) NOVELA
+# ========================================
+
+En el Tiempo de las Mariposas | Julia Álvarez | 1995
+La Fantasma de Higüey | Javier Angulo Guridi | 1857
+Baní o Engracia y Antoñita | Francisco Gregorio Billini | 1892
+El Montero | Pedro Francisco Bonó | 1856
+La Mañosa | Juan Bosch | 1936
+Escalera para Electra | Aída Cartagena Portalatín | 1970
+Curriculum El Síndrome de la Visa | Efraím Castillo | 1982
+La Sangre | Tulio Manuel Cestero | 1914
+La Cacica | Rafael Damirón | 1944
+Las Tinieblas del Dictador | Carlos Esteban Deive | 1964
+La Maravillosa Vida Breve de Oscar Wao | Junot Díaz | 2007
+Guazábara | Alfredo Fernández Simó | 1958
+Enriquillo | Manuel de Jesús Galván | 1879
+Aquiles Vargas Fantasma | Manuel García Cartagena | 1989
+Tiempo para Héroes | Manuel Salvador Gautier | 1993
+Guanuma | Federico García Godoy | 1914
+Trementina Clerén y Bongó | Julio González Herrera | 1943
+La Estrategia de Chochueca | Rita Indiana Hernández | 2003
+Carnavá | Ángel Hernández Acosta | 1979
+La Mujer de Agua | Ramón Lacay Polanco | 1949
+La Pandilla | Haim H. López Peña | 1946
+Las Siempre Insólitas Cartas del Destino | Roberto Marcallé Abreu | 1999
+Over | Ramón Marrero Aristy | 1939
+La Balada de Alfonsina Bayrán | Andrés L. Mateo | 1992
+Sueña Pilarín | Abigail Mejía | 1925
+Cuando Amaban las Tierras Comuneras | Pedro Mir | 1978
+Goeíza | Manuel Mora Serrano | 1980
+Cañas y Bueyes | F. E. Moscoso Puello | 1953
+El Placer Está en el Último Piso | Pedro Peix | 1974
+Cenizas del Querer | Emilia Pereyra | 2001
+Juan Mientras la Ciudad Crecía | Carlos Federico Pérez | 1960
+Jengibre | Pedro Andrés Pérez Cabral | 1940
+Los Enemigos de la Tierra | Andrés Francisco Requena | 1936
+El Testimonio | Ramón Emilio Reyes | 1961
+He Olvidado tu Nombre | Martha Rivera | 1997
+El Masacre Se Pasa a Pie | Freddy Prestol Castillo | 1973
+El Reino de Mandinga | Ricardo Rivera Aybar | 1987
+Lucinda Palmares | Diógenes Valdez | 1981
+Carnaval de Sodoma | Pedro Antonio Valdez | 2002
+El Buen Ladrón | Marcio Veloz Maggiolo | 1960
+Sólo Cenizas Hallarás | Pedro Vergés | 1980
+
+# ========================================
+# 5) POESÍA
+# ========================================
+
+Territorios Extraños | José Acosta | 1994
+La Guerra y los Cantos | Miguel Alfonseca | 1966
+Décimas | Juan Antonio Alix | 1953
+Bienaventurados los Cimarrones | Juan José Ayuso | 1979
+Los Humildes | Federico Bermúdez | 1916
+Suma Presencia | Víctor Bidó | 1999
+Cantos a Helena | Máximo Avilés Blonda | 2012
+Compadre Mon | Manuel del Cabral | 1957
+Ángel de Seducción | Fernando Cabrera | 1996
+La Tierra Escrita | Aída Cartagena Portalatín | 1967
+Galaripsos | Gastón Fernando Deligne | 1913
+América en Genitura Épica | Francisco Domínguez Charro | 1942
+Banquetes de Aflicción | Cayo Claudio Espinal | 1979
+Consignas y Subversiones | Enrique Eusebio | 1980
+Vendaval Interior | Antonio Fernández Spencer | 1944
+La Canción de una Vida | Fabio Fiallo | 1926
+Las Superficies Sórdidas | Ramón Francisco | 1969
+El Fabulador | José Enrique García | 1980
+Retiro Hacia la Luz | Freddy Gatón Arce | 1980
+Si Dios Quiere | Alexis Gómez Rosa | 1996
+Solazo | Octavio Guzmán Carretero | 1948
+Nocturnos | Enrique Henríquez | 1939
+Briznas de Cobre | Rafael Américo Henríquez | 1972
+Yelidá | Tomás Hernández Franco | 1952
+Círculo | Lupo Hernández Rueda | 1930
+Poemas de una Sola Angustia | Héctor Incháustegui Cabral | 1940
+La Provincia Sublevada | Norberto James | 1972
+El Oscuro Rito de la Sangre | Adrián Javier | 1989
+Axiología de las Sombras | Dionisio de Jesús | 1984
+Cauce Hondo | Martha María Lamarche | 1935
+La Invención del Día | José Mármol | 1989
+Alma Adentro | Carmen Natalia Martínez Bonilla | 1939
+Clima de Eternidad | Franklin Mieses Burgos | 1986
+Fichas de Identidad | Jeannette Miller | 1985
+Hay un País en el Mundo | Pedro Mir | 1949
+El Poema de la Hija Reintegrada | Domingo Moreno Jimenes | 1934
+Papeles de la Noche | Ylonka Nacidit-Perdomo | 1998
+Criollas | Arturo Pellerano Castro | 1907
+Pasar de Sombras | José Alejandro Peña | 1989
+Cantos a Apolo | Apolinar Perdomo | 1923
+Fantasías Indígenas | José Joaquín Pérez | 1877
+Si Puedes Tú con Dios Hablar | Radhamés Reyes Vásquez | 1992
+El Viento Frío | René del Risco Bermúdez | 1970
+La Criatura Terrestre | Manuel Rueda | 1963
+Pájaro Dentro de la Lluvia | Enriquillo Sánchez | 1985
+Memorias del Retorno | César Sánchez Beras | 1993
+Sinfonía Vegetal a Juan Pablo Duarte | Juan Sánchez Lamouth | 1965
+De Vuelta a Casa | Rosa Silverio | 2002
+Poemas de una Sola Intención | Rubén Suro | 1978
+Antología Poética | Luis Alfredo Torres | 1985
+Poesías Completas | Salomé Ureña Henríquez | 1989
+Los Centros Peculiares | Rafael Valera Benítez | 1964
+La Lumbre Sacudida | Abelardo Vicioso | 1958
+Galeras de Pafos | Otilio Celestino Vigil Díaz | 1921
+Diálogos con Simeón | Víctor Villegas | 1977
+Jardín de Augurios | César Augusto Zapata | 1994
