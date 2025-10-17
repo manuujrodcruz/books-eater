@@ -1,4 +1,4 @@
-# Books Eater - Audiolibros Dominicanos
+# Books Eater - Audiolibros Dominicanos (Financiado por FondoCyt)
 
 Herramienta especializada para buscar y catalogar audiolibros de literatura dominicana disponibles en YouTube.
 

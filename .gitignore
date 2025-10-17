@@ -6,7 +6,8 @@ __pycache__/
 
 # Output files
 *.csv
-poems_list.txt
+*.xlsx
+books_list.txt
 
 # IDE
 .vscode/
